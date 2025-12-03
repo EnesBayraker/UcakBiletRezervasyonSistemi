@@ -1,3 +1,4 @@
+![Uygulama Görüntüsü](screenshots/ss2.png)
 # Flight Reservation System (C# WinForms)
 
 OOP dersi kapsamında geliştirdiğim basit bir Uçak Bileti Otomasyonu projesi.
